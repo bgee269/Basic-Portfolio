@@ -1,0 +1,143 @@
+
+
+.box1 {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+    float: right;
+    
+    /* background-image: url(https://www.englishclub.com/images/esl-games/hangman-150.png) */
+}
+
+.box2 {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+    float: right;
+    
+    /* background-image: url(https://insideevs.com/wp-content/uploads/2017/12/IMG_20171214_164551-e1529516907468.jpg) */
+}
+
+.box3 {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+    float: right;
+    
+    /* background-image: url(https://pokemonletsgo.pokemon.com/assets/img/common/char-eevee.png) */
+}
+
+.box4 {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+    float: right;
+    
+    
+    /* background-image: url(https://pbs.twimg.com/profile_images/817389061564493825/c8wrPD8L_400x400.jpg) */
+}
+
+.box5 {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+    float: right;
+    /*background-image: url(https://pbs.twimg.com/profile_images/1045783102000230400/TPLLaqYR_400x400.jpg)*/
+}
+
+body {
+    background-color: lightgray;
+    margin:0;
+    padding:0;
+    text-align: center;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+}
+
+.Me {
+    color: white;
+    font-size: 45px;
+    background-color: #4aaaa5;
+    width: 30%;
+    position:  relative top 0
+    
+}
+
+ nav {
+   
+   width: 100%;
+    list-style:none ;
+    float: left;
+     margin: 0 ;
+    padding: 0;
+     font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+     font-size: 24px;
+     color: #777777;
+     text-align: center;
+     position:  relative top 0;
+     
+
+}
+
+header {
+    background-color: white;
+    
+    
+}
+ header nav ul {
+    margin: 0;
+    float: right;
+    
+    
+    
+    
+ }
+
+ header nav ul li {
+     list-style: none;
+     padding: 0 16px;
+     float: right;
+    
+
+}
+
+ header nav ul li a {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 24px;
+    color: #777777;
+    
+ }
+
+ body {
+     background-color: white;
+     display: flex;
+     flex-direction: column;
+     align-content: center;
+     justify-content: center;
+     flex-wrap: wrap;
+     
+ }
+
+ p {
+     color: #4aaaa5;
+     font-size: 35px;
+    
+}
+
+form {
+    background-color: lightgray;
+    width: 40%;
+    height: 40%;
+    display: inline-block;
+}
+.banner{
+    background-color: green;
+    padding: 10px; 
+    color: white;
+}
+
